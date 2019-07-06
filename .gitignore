@@ -1,0 +1,11 @@
+#IMG E JPG DIRECTORY
+src/assets/*
+src/assets/logo/*
+src/assets/images/*
+src/assets/carouselSite/*
+*png
+*img
+*jpg
+*gif
+*webp
+*jpeg
